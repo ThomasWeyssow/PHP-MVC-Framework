@@ -1,0 +1,15 @@
+{
+    "name": "thomas/mvc-framework-ii",
+    "authors": [
+        {
+            "name": "Thomas Weyssow", 
+            "email": "thomas.weyssow@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
